@@ -1,6 +1,4 @@
-### SEJAM BEM VINDOS AO MEU PERFIL!
-
-<center><h2> SEJAM BEM VINDOS AO MEU MUNDO! </h2></center>
+<center><h2> SEJAM BEM VINDOS AO MEU PERFIL! </h2></center>
 
 ![gif macaco no nootebook](https://i.gifer.com/1FA.gif)
 -------
