@@ -1,16 +1,30 @@
-## Hi there 👋
+### SEJAM BEM VINDOS AO MEU PERFIL!
 
-<!--
-**Jonathanwsr/jonathanwsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><h2> SEJAM BEM VINDOS AO MEU MUNDO! </h2></center>
 
-Here are some ideas to get you started:
+![gif macaco no nootebook](https://i.gifer.com/1FA.gif)
+-------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📈 Olá, me chamo jonathan!<br>🎓 Atualmente estou cursando sistemas de informção na unifacol.<br> ⚡️Sou desenvolvedor fullstack.<br>🚀 Atualmente estou focado em aprimorar minhas habilidades em programação. 
+--------
+
+
+
+
+📫 [Acesse meu linkedin](https://www.linkedin.com/in/jonathan-rocha-51b8ab268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+------
+
+
+## LINGUAGEMS DE PROGRAMÇÃO
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+<img src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width="100px"> 
+
+
+
