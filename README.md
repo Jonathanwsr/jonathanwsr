@@ -8,7 +8,7 @@
 --------
 
 
-🎓 Atualmente estou cursando o 3° período de sistemas de informção na unifacol. 
+🎓 Atualmente estou cursando o 4° período de sistemas de informção na unifacol. 
 
 🚀 Estou focado em aprimorar minhas habilidades em programação. 
 
