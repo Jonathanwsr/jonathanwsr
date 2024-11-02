@@ -1,46 +1,24 @@
-# SEJAM BEM VINDOS AO MEU PERFIL⚡️!
-
-
-
-
-
-***Me chamo jonathan!***
---------
-
+# 💫 About Me:
 
 🎓 Atualmente estou cursando o 4° período de sistemas de informção na unifacol. 
-
-🚀 Estou focado em aprimorar minhas habilidades em programação. 
-
-
-⚡️ Sou desenvolvedor fullstack.
-
-![gif macaco no nootebook](https://hypescience.com/wp-content/uploads/2016/03/macaco-computador-babuino.gif)
-
--------
+<br>🚀 Estou focado em aprimorar minhas habilidades como programador. 
+<br>⚡️ Sou desenvolvedor Back end.<br> <br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-rocha-51b8ab268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanwsr&theme=shadow_red&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Jonathanwsr&icon=7&color=1)](https://visitcount.itsvg.in)
 
-
-📫 [Acesse meu linkedin](https://www.linkedin.com/in/jonathan-rocha-51b8ab268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-------
-
-
-
-
-
-## MINHAS LINGUAGEMS DE PROGRAMÇÃO
-
-<p align="center">
-<img src="https://github.com/Jonathanwsr/jonathanwsr/assets/126990110/b46ddb43-a0f8-4e83-ba8e-9e8246d26d82" width="100px">  
-<img src="https://github.com/Jonathanwsr/jonathanwsr/assets/126990110/3db75bc2-868b-407d-8cb6-c40eca1db270" width="50px"> 
-<img src="https://github.com/Jonathanwsr/jonathanwsr/assets/126990110/aa8b0977-fbcd-473f-be44-723abda7b36b" width="50px"> 
-<img src="https://github.com/Jonathanwsr/jonathanwsr/assets/126990110/1bdf0588-05d4-4a58-b609-862017bc6e9c" width="50px"> 
-<img src="https://github.com/Jonathanwsr/jonathanwsr/assets/126990110/6d3617d6-41a7-4eba-97da-2b475b788636" width="50px"> 
-<p/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
