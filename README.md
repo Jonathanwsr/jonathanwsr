@@ -3,7 +3,7 @@
 <br>⚡️ Sou desenvolvedor Back end.<br> <br><br>
 
 
-# Atualmente colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
+
 
 
 
@@ -24,6 +24,7 @@
 
 
 
+# Atualmente estou colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
 
 
 
