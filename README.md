@@ -1,8 +1,9 @@
-# 💫 About Me:
-
 🎓 Atualmente estou cursando o 4° período de sistemas de informção na unifacol. 
 <br>🚀 Estou focado em aprimorar minhas habilidades como programador. 
 <br>⚡️ Sou desenvolvedor Back end.<br> <br><br>
+
+
+# Atualmente colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
 
 
 
