@@ -26,6 +26,8 @@
 
 # Atualmente estou colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
 
+# E o meu projeto de aprendizado em react  https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto.git
+
 
 
 
