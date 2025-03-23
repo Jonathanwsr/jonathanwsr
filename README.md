@@ -1,6 +1,6 @@
-🎓 Atualmente estou cursando o 4° período de sistemas de informção na unifacol. 
+🎓 Atualmente estou cursando o 5° período de sistemas de informção na unifacol. 
 <br>🚀 Estou focado em aprimorar minhas habilidades como programador. 
-<br>⚡️ Sou desenvolvedor Back end.<br> <br><br>
+<br>⚡️ Sou desenvolvedor Full Stack.<br> <br><br>
 
 
 
@@ -26,7 +26,11 @@
 
 # Atualmente estou colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
 
+# Meu projeto de estudo em angular que estou trabalhando nele no momento https://github.com/Jonathanwsr/Lading-Page-Soccser.git
+
 # E o meu projeto de aprendizado em react  https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto.git
+
+
 
 
 
