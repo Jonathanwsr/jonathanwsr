@@ -1,53 +1,51 @@
-🎓 Atualmente estou cursando o 5° período de sistemas de informção na unifacol. 
-<br>🚀 Estou focado em aprimorar minhas habilidades como programador. 
-<br>⚡️ Sou desenvolvedor Full Stack.<br> <br><br>
+# 👋 Olá, eu sou Jonathan Rocha!
 
+🎓 Atualmente estou cursando o **5° período de Sistemas de Informação** na UNIFACOL.  
+🚀 Estou focado em aprimorar minhas habilidades como programador.  
+⚡️ Sou **desenvolvedor Full Stack** com experiência em diversas tecnologias.  
 
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-rocha-51b8ab268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathanwsr&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rocha-51b8ab268/)  
 
 ---
+
+## 💻 Tech Stack:
+Tecnologias que utilizo no meu dia a dia:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Swagger](https://img.shields.io/badge/swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathanwsr&theme=shadow_red&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanwsr&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Jonathanwsr&icon=7&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🚀 Projetos em andamento:
 
+🔹 **API Rick and Morty** - Contribuindo na API para explorar o universo de Rick and Morty na organização **Exploit-Experts**  
+🔗 [Exploit-Experts/RickAndMorty-Spring-API](https://github.com/Exploit-Experts/RickAndMorty-Spring-API)  
 
+🔹 **Landing Page sobre Futebol** - Projeto em **Angular** sobre estatísticas e informações do mundo do futebol  
+🔗 [Jonathanwsr/Landing-Page-Soccer](https://github.com/Jonathanwsr/Lading-Page-Soccser)  
 
-# Atualmente estou colaborando na criação de uma API sobre Rick Morty na organização (Exploit-Experts) - https://github.com/Exploit-Experts/RickAndMorty-Spring-API
-
-# Meu projeto de estudo em angular que estou trabalhando nele no momento https://github.com/Jonathanwsr/Lading-Page-Soccser.git
-
-# E o meu projeto de aprendizado em react  https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔹 **Sistema de Gestão de Projetos** - Aplicação desenvolvida em **React** para gerenciamento de projetos  
+🔗 [Jonathanwsr/Sistema-de-gestao-de-projeto](https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto)  
