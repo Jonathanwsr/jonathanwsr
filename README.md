@@ -39,13 +39,17 @@ Tecnologias que utilizo no meu dia a dia:
 
 ---
 
-## 🚀 Projetos em andamento:
+##  Projetos finalizados:
 
-🔹 **API Rick and Morty** - Contribuindo na API para explorar o universo de Rick and Morty na organização **Exploit-Experts**  
-🔗 [Exploit-Experts/RickAndMorty-Spring-API](https://github.com/Exploit-Experts/RickAndMorty-Spring-API)  
+ **API Rick and Morty** - Contribuindo na API para explorar o universo de Rick and Morty na organização **Exploit-Experts**  
+ [Exploit-Experts/RickAndMorty-Spring-API](https://github.com/Exploit-Experts/RickAndMorty-Spring-API)  
+    
+**Front end da api RickAndMorty***
+   [https://github.com/Exploit-Experts/RickAndMorthy-client.git]
 
-🔹 **Landing Page sobre Futebol** - Projeto em **Angular** sobre estatísticas e informações do mundo do futebol  
-🔗 [Jonathanwsr/Landing-Page-Soccer](https://github.com/Jonathanwsr/Lading-Page-Soccser)  
+   
+ **Landing Page sobre Futebol** - Projeto em **Angular** sobre estatísticas e informações do mundo do futebol  
+ [Jonathanwsr/Landing-Page-Soccer](https://github.com/Jonathanwsr/Lading-Page-Soccser)  
 
-🔹 **Sistema de Gestão de Projetos** - Aplicação desenvolvida em **React** para gerenciamento de projetos  
-🔗 [Jonathanwsr/Sistema-de-gestao-de-projeto](https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto)  
+ **Sistema de Gestão de Projetos** - Aplicação desenvolvida em **React** para gerenciamento de projetos  
+ [Jonathanwsr/Sistema-de-gestao-de-projeto](https://github.com/Jonathanwsr/Sistema-de-gest-o-de-projeto)  
