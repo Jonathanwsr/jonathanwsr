@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Jonathan Rocha!
+# Olá, eu sou Jonathan Rocha!
 
-🎓 Atualmente estou cursando o **5° período de Sistemas de Informação** na UNIFACOL.  
-🚀 Estou focado em aprimorar minhas habilidades como programador.  
-⚡️ Sou **desenvolvedor Full Stack** com experiência em diversas tecnologias.  
+Atualmente estou cursando o **6° período de Sistemas de Informação** na UNIFACOL.  
+ Estou focado em aprimorar minhas habilidades como programador.  
+⚡Sou **desenvolvedor Full Stack** com experiência em diversas tecnologias.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rocha-51b8ab268/)  
 
@@ -46,6 +46,8 @@ Tecnologias que utilizo no meu dia a dia:
     
 **Front end da api RickAndMorty***
    [https://github.com/Exploit-Experts/RickAndMorthy-client.git]
+
+   Acesse o sistema compreto em [https://rickandmortydatabases.netlify.app/]
 
    
  **Landing Page sobre Futebol** - Projeto em **Angular** sobre estatísticas e informações do mundo do futebol  
